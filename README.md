@@ -6,7 +6,7 @@ This  is a simple webpage using html,css,js,php,mysql.
   use of data tables
   Server credentials validation
   
- ### ScreenShots
+ ## ScreenShots
  ![](screenshot/Screenshot%20(35).png)
  
  
