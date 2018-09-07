@@ -7,6 +7,13 @@ This  is a simple webpage using html,css,js,php,mysql.
   Server credentials validation
   
  ## ScreenShots
- ![](screenshot/Screenshot%20(35).png)
+ ![](screenshots/Screenshot%20(35).png)
+ ![](screenshots/Screenshot%20(36).png)
+ ![](screenshots/Screenshot%20(37).png)
+ ![](screenshots/Screenshot%20(38).png)
+  ![](screenshots/Screenshot%20(39).png)
+ ![](screenshots/Screenshot%20(40).png)
+
+
  
  
